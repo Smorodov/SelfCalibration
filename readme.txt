@@ -3,6 +3,8 @@
 См.  "Camera Calibration with Lens Distortion from Low-rank Textures" на сайте авторов метода.
 
 Сайт авторов метода: http://perception.csl.illinois.edu/matrix-rank/applications.html
+PDF-ка с описанием здесь: http://perception.csl.illinois.edu/matrix-rank/Files/calibration.pdf
+и в папке doc проекта.
 
 Проект изначально компилировался на VS2010, проверялся на VS2012.
 
